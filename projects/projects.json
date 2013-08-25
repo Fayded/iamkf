@@ -1,0 +1,31 @@
+[
+    {
+        "id": "hbo",
+        "name": "Game of Thrones", 
+        "imageUrl": "img/gameOfThrones.jpg", 
+        "imageThumbnails": ["img/gotThumb_3.jpg", "img/gotThumb_2.jpg", "img/gotThumb_3.jpg"],  
+        "description": "The Next, Game of Thrones Description",
+        "link": "http://jointherealm.com"
+    }, 
+    {
+        "id": "bet",
+        "name": "Centric TV", 
+        "imageUrl": "img/centric.jpg",
+        "imageThumbnails": ["img/centricThumb_3.jpg", "img/centricThumb_2.jpg", "img/centricThumb_3.jpg"], 
+        "description": "CentricTV description"
+    },
+    {
+        "id": "crossfit",
+        "name": "Crossfit 813", 
+        "imageUrl": "img/crossfit.jpg", 
+        "imageThumbnails": ["img/crossfitThumb_3.jpg", "img/crossfitThumb_2.jpg", "img/crossfitThumb_3.jpg"],
+        "description": "Crossfit 813 West Description"
+    },
+    {
+        "id": "cox",
+        "name": "Cox Media Connect", 
+        "imageUrl": "img/coxMediaConnect.jpg", 
+        "imageThumbnails": ["img/connectThumb_3.jpg", "img/connectThumb_2.jpg", "img/connectThumb_3.jpg"], 
+        "description": "Connect Description"
+    }
+]

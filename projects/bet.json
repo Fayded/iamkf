@@ -1,0 +1,7 @@
+{
+    "title": "bet", 
+    "imagesUrl": ["bet_1.jpg", "bet_1.jpg", "bet_1.jpg"], 
+    "tools": ["html5", "javascript", "jQuery", "CSS3"],
+    "description": "BET Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus placerat turpis at consectetur iaculis. Proin mollis nisi at felis fermentum tincidunt. Vivamus eleifend, urna sed convallis vestibulum, nulla neque dictum dui, ac fringilla tellus sapien ut purus. Duis nec dolor nibh. Quisque sit amet odio orci. Quisque odio tellus, hendrerit non quam sed, tristique rhoncus tellus. Praesent mollis felis et est rutrum, non varius velit laoreet. Morbi pretium pharetra quam, at faucibus turpis dictum sit amet. Donec vel pulvinar tortor. Sed feugiat venenatis massa in convallis. Morbi posuere suscipit tortor, vel convallis odio porta blandit. Mauris in turpis nulla. Integer vehicula ac sapien a ullamcorper. Aliquam consequat, ipsum ut consectetur elementum, justo mi tincidunt risus, in lobortis risus nibh sed nulla. Quisque sed ornare purus. Duis feugiat massa vel est rhoncus tincidunt. Donec vitae metus ac velit laoreet rutrum non in tortor. Pellentesque euismod sollicitudin laoreet. Proin sed cursus massa. Phasellus elit velit, bibendum id dui non, hendrerit lacinia justo. Suspendisse lobortis sed tortor vitae rhoncus. Quisque tristique ultrices molestie. Integer at posuere mauris.",
+    "link": "http://centricTV.com" 
+}
